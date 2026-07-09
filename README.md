@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/zoom-clone → Demo sect
 Most video-app scripts stop at "video call." This platform ships with the features that actually run a meeting *business*:
 
 - **Optimised Video Codec** — H.264 + VP8 + AV1 with SVC — low bandwidth with reliable quality — Zoom's R&D focus
-- **Breakout Rooms + Whiteboard** — 
-- **Cloud Recording + Transcripts** — instructor-led breakouts, pre-assigned and on-the-fly — what makes virtual classrooms possible
-- **AI Meeting Assistant** — 10k+ attendee webinars with Q&A, polling, raise-hand — what made Zoom a billion-dollar business
-- **Webinar Mode** — auto-chapters, action items, speaker stats — same feature Otter.ai and Zoom IQ sell
+- **Breakout Rooms + Whiteboard** — instructor-led breakouts, pre-assigned and on-the-fly — what makes virtual classrooms possible
+- **Cloud Recording + Transcripts** — automatic recording storage with searchable transcript — what makes meetings actionable
+- **AI Meeting Assistant** — auto-chapters, action items, speaker stats — same feature Otter.ai and Zoom IQ sell
+- **Webinar Mode** — 10k+ attendee webinars with Q&A, polling, raise-hand — what made Zoom a billion-dollar business
 
 ## 📦 Core Features
 
